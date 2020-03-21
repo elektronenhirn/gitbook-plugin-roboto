@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto|Roboto+Mono&display=swap');
 
-.book-body h1,.book-body h2,.book-body h3,.book-body h4,.book-body h5,.book-body h6 {
+.book-body h1,.book-body h2,.book-body h3,.book-body h4,.book-body h5,.book-body h6, li.header {
     font-family: 'Roboto Mono', monospace;
 }
 
