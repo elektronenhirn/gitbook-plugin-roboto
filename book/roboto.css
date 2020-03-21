@@ -4,6 +4,6 @@
     font-family: 'Roboto', sans-serif;
 }
 
-.book-body h1,.book-body h2,.book-body h3,.book-body h4,.book-body h5,.book-body h6, li.header{
+.book-body h1,.book-body h2,.book-body h3,.book-body h4,.book-body h5,.book-body h6, li.header, li.chapter{
     font-family: 'Roboto Mono', monospace;
 }
