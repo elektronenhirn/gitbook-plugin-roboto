@@ -2,7 +2,7 @@
   "name": "gitbook-plugin-roboto",
   "description": "roboto font family for gitbook",
   "main": "index.js",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "engines": {
     "gitbook": ">=0.4.6"
   },
