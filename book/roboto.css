@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto|Roboto+Mono&display=swap');
+
+.book-body p , .book-body h1,.book-body h2,.book-body h3,.book-body h4,.book-body h5,.book-body h6,.book-body div,.book-body span {
+    font-family: 'Roboto Mono', monospace;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal code .summary , .summary li , .summary li a  {
+    font-family: 'Roboto', sans-serif;
+}

@@ -1,0 +1,28 @@
+{
+  "name": "gitbook-plugin-roboto",
+  "description": "roboto font family for gitbook",
+  "main": "index.js",
+  "version": "0.0.2",
+  "engines": {
+    "gitbook": ">=0.4.6"
+  },
+  "homepage": "https://github.com/elektronenhirn/gitbook-plugin-roboto",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elektronenhirn/gitbook-plugin-roboto"
+  },
+  "keywords": [
+    "gitbookio",
+    "gitbook",
+    "roboto",
+    "plugin"
+  ],
+  "author": "elektronenhirn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elektronenhirn/gitbook-plugin-roboto/issues"
+  }
+}
