@@ -1,9 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono:300|Roboto:300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Khand:wght@600&display=swap');
 
 .book-body p, .book-body di, .book-body span, .book .book-body .page-wrapper .page-inner section.normal code .summary , .summary li , .summary li a  {
     font-family: 'Roboto', sans-serif;
 }
 
-.book-body h1,.book-body h2,.book-body h3,.book-body h4,.book-body h5,.book-body h6, li.header, li.chapter, code{
+.book-body h1,.book-body h2,.book-body h3,.book-body h4,.book-body h5,.book-body h6, li.header, li.chapter{
+    font-family: 'Khand', sans-serif;
+}
+
+code{
     font-family: 'Roboto Mono', monospace;
 }

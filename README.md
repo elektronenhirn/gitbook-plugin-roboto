@@ -1,5 +1,5 @@
 ## gitbook-plugin-roboto
-Uses roboto as default font for gitbook
+Uses roboto as the main font for gitbook. Code blocks are roboto-mono, headlines are Khand.
 
 ### To Install
 
